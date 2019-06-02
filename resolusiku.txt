@@ -5,3 +5,4 @@ sablon
 sapi
 kambing
 rumput
+membuat pupuk
