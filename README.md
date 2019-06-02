@@ -1,0 +1,2 @@
+# resolusi
+mengatur resolusi kedepan
